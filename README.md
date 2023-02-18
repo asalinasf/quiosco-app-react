@@ -1,4 +1,4 @@
-# Restaurant Biller
+# Quiosco App
 
 This project is about a food kiosk, people can download it and use it for their business, this project is made with React, Next.js, Tailwind, and SWR to make better requests.
 
