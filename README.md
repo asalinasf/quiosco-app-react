@@ -1,3 +1,4 @@
+
 # Quiosco App
 
 This project is about a food kiosk, people can download it and use it for their business, this project is made with React, Next.js, Tailwind, and SWR to make better requests.
@@ -44,3 +45,8 @@ npm run dev
 yarn dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+<p>
+  <img  src="https://img.shields.io/github/stars/asalinasf/quiosco-app-react" />
+  <img  src="https://img.shields.io/github/languages/top/asalinasf/quiosco-app-react" />
+</p>
